@@ -17,4 +17,8 @@ Endpoints
 	3. Post- api/user ,request
 	4. Put- api/user/1 ,request
 	5. Delete -api/user/1
+	
+
+
+Docs- Folder contains postman colleciton and intial db script
 			
