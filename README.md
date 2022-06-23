@@ -1,34 +1,14 @@
 # IqExercise
 
 Project contains user endpoints for CRUD operations. Following featuers are implemented in this project
-	1. Onion architecture.
-	2. Mediator Pattern
-	3. Repositary Pattern
-	4. Code First Approach
-	5. Global handling of error using middleware extension
-	6. Helper class for image upload
-	7. Extension method for full adress display and model null check
-	8. Automapper for request/ response and model
-	9. Paging, sorting and filtering get endpoint.
-	10.EfCore
-	11.PostMan Collection
-	12.Initial migration script
+
+![image](https://user-images.githubusercontent.com/35482329/175325502-b6b4f737-49ea-4d74-ace1-84b475af4346.png)
+
 
 Folder Structure
-	Core
-		Domain
-			1. Entites - db model
-		Application
-			- Commands and Queries
-			- Extension methods
-			- Helper class
-	Persistance
-		- Context and Repositary
-	WebApi
-		- User Controller
-		- Exception handling
-		- Middleware
-		- Configuration
+
+![image](https://user-images.githubusercontent.com/35482329/175325118-a845f2b7-896d-491d-bf61-c9c24357e9c5.png)
+
 		
 Endpoints
 	
